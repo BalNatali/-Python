@@ -1,0 +1,8 @@
+a,b,c,d,e = input()
+a=float(a)
+b=float(b)
+c=float(c)
+d=float(d)
+e=float(e)
+p=d**e*c/(a-b)
+print(p)
